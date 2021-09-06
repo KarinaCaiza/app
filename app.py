@@ -1,6 +1,5 @@
 import streamlit as st 
-import pandas as pd 
-import matplotlib.pyplot as plt 
+import pandas as pd
 import lasio
 st.title("Aplicación para registro de pozos")
 st.sidebar.title("Menu")
